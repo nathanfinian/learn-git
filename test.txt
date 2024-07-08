@@ -1,4 +1,4 @@
 Pertama kali git manual
 Bintoro lemu
 Line ke tiga
-Line keempat buat gitkraken
+Line keempat buat gitkraken sulaiman
